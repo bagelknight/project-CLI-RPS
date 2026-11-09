@@ -3,7 +3,7 @@
 1. Share one aspect of building this project you found challenging and how you
    overcame it.
 
-[Write your reflection here]
+The hardest part was just coming up with the idea and not overthinking the code. I overcame this by once i got my idea i just though about the simpliest way i find to make and then just ball with that idea 
 
 2. Share one technical concept that you gained a deeper understanding of
    through building this project. Explain that concept in simple terms and
