@@ -1,8 +1,3 @@
-# Start your CLI app here.
-#
-# Run it with:  python3 src/main.py
-#
-# The brief is in PROJECT.md.
 from game import playRPS
 from stats import record_result, show_stats
 
