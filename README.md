@@ -1,12 +1,2 @@
 # CLI App
-
-**The project brief is in [PROJECT.md](./PROJECT.md).** Start there.
-
-This file is yours to write. When your project works, replace everything here
-with a description of what you built: what it does, how to run it, and a usage
-example. Write it for someone who has never seen your project before.
-
-For an example of what a finished one looks like, see the
-[Task Manager Case Study](https://github.com/The-Marcy-Lab-School/swe-casestudy-1-cli-task-manager),
-which is a working Python CLI app with investigation questions to work
-through.
+My project is a simple rock paper scissors game. when this program is ran it will start at a main menu where the options are to play rock paper scissors, checks your stats and to leave. If you enter 1 to play RPS then you will play against what i call a cpu that randomly pick RPS while you also pick RPS which you can play as long as need by say yes to playing again after a round. If you were to exit and want to see your stats then you would enter 2 which will give your wins and losses with your win-rate. Then it send you to the main menu where you can exit which ends the program  
