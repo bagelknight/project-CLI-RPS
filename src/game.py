@@ -22,7 +22,7 @@ def playRPS():
         print("you wins!")
         result = "win"
     else:
-        print("cpu wins?")
+        print("cpu wins!")
         result = "loss"
 
     return result
